@@ -1,7 +1,8 @@
-#### music_app
+# music_app
 ## This app is a music app player. 
 ## This app will use Riverpod as the state management.
 ## It will observe clean architecture
+## The UI is ready. 
 ![Screenshot_1666031862](https://user-images.githubusercontent.com/64620590/196682215-069168d5-9a52-4190-b4bd-bd00c2a5d3d3.png)
 ![Screenshot_1666179497](https://user-images.githubusercontent.com/64620590/196682223-eaa7b15e-5f8d-4653-8d54-c070339e9f70.png)
 ![Screenshot_1666179651](https://user-images.githubusercontent.com/64620590/196682228-86eb78d2-c7be-45af-9f26-a7a8f1c030c4.png)
