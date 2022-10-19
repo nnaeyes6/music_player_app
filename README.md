@@ -1,4 +1,4 @@
-# music_app
+# music_player_app
 ## This app is a music app player. 
 ## This app will use Riverpod as the state management.
 ## It will observe clean architecture
